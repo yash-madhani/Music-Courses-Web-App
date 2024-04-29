@@ -1,0 +1,75 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Piano Fundamentals",
+        "slug": "piano-fundamentals",
+        "description": "Learn the basics of playing the piano, including reading sheet music, finger techniques, and music theory.",
+        "price": 49.99,
+        "instructor": "John Smith",
+        "isFeatured": true,
+        "image": "piano-fundamentals.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Guitar Mastery",
+        "slug": "guitar-mastery",
+        "description": "Master the guitar with advanced techniques, chord progressions, and improvisation skills.",
+        "price": 59.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": false,
+        "image": "guitar-mastery.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Drumming Essentials",
+        "slug": "drumming-essentials",
+        "description": "Learn the essentials of drumming, including rhythm patterns, drum fills, and proper drumming posture.",
+        "price": 39.99,
+        "instructor": "Michael Davis",
+        "isFeatured": true,
+        "image": "drumming-essentials.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Singing Techniques",
+        "slug": "singing-techniques",
+        "description": "Discover various singing techniques including breath control, vocal range, and performance skills.",
+        "price": 44.99,
+        "instructor": "Sarah Brown",
+        "isFeatured": false,
+        "image": "singing-techniques.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Bass Guitar Basics",
+        "slug": "bass-guitar-basics",
+        "description": "Get started with the bass guitar, covering basic techniques, scales, and popular basslines.",
+        "price": 34.99,
+        "instructor": "Daniel Lee",
+        "isFeatured": true,
+        "image": "bass-guitar-basics.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Music Production Essentials",
+        "slug": "music-production-essentials",
+        "description": "Learn the fundamentals of music production, including recording, mixing, and mastering.",
+        "price": 69.99,
+        "instructor": "Alex Turner",
+        "isFeatured": true,
+        "image": "music-production-essentials.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Violin Mastery",
+        "slug": "violin-mastery",
+        "description": "Master the violin with advanced bowing techniques, vibrato, and classical repertoire.",
+        "price": 54.99,
+        "instructor": "Jessica Roberts",
+        "isFeatured": false,
+        "image": "violin-mastery.jpg"
+      }
+    ]
+  }
+  
