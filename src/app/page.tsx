@@ -1,5 +1,6 @@
 import HeroSection from "@/components/HeroSection";
 import FeaturedCourses from "@/components/FeaturedCourses";
+import WhyChooseUs from "@/components/WhyChooseUs";
 
 export default function Home() {
   return (
@@ -7,6 +8,7 @@ export default function Home() {
       <h1 className="text-center text-white text-xl"></h1>
       <HeroSection />
       <FeaturedCourses />
+      <WhyChooseUs />
     </main>
   );
 }
